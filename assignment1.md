@@ -7,7 +7,7 @@ _by Sruthi Darbhamulla_
 _Idea 1:_
 My first idea centers on understanding the complex dynamics of immigration from South Asian, South East Asian and East Asian countries to the United States (Near Asia and the Middle-East shall be left out of the present discussion.) It shall analyze trends in Asian inflow to the United States and look at possible causes and co-relations, such as whether regime changes have resulted in this flow. Another element is observing whether immigration of particular communities has proportionally gone up or down compared to events which might be indicate such changes. For example, has Vietnamese immigration gone down post the end of the Vietnam war? Or has the Rohingya crisis increased immigration to America? The article would also include changes in student populations. Indian and Chinese students have traditionally led the pack, but there may be other variations in the makeup of the Asian student body in the United States that I would like to delve into. 
 
-_Published story:_ [link text][https://www.nationalgeographic.com/culture/2018/07/graphic-united-states-immigration-origins-rings-tree-culture/]
+_Published story:_ [(https://www.nationalgeographic.com/culture/2018/07/graphic-united-states-immigration-origins-rings-tree-culture/)]
 
 
 _Note:_ This story just touches on how Asian immigration has increased over the years with an interesting infographic. I could not find published stories that deal with my precise subject. I did not think Pew Research Center analyses counted as stories, because those are the datasets that will inform my story. In particular, this one:[link text](https://www.pewresearch.org/topics/asian-americans/)
