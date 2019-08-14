@@ -2,7 +2,7 @@
 
 Link: https://www.census.gov/library/publications/2011/dec/c2010br-01.html
 
-### Question 1: Where there any drastic reduction in population in major American cities from the year 2000 to 2010?
+### Question 1: Were there any drastic reductions in the populations of major American cities from 2000 to 2010?
 Answer: Yes. Cities such as New Orleans, Louisiana (29 percent decrease); Detroit, Michigan (almost 25 percent decrease) and Cleveland, Ohio (17 percent decrease) saw significant drops in population from 2000 to 2010. When urban migration is thought of as a common phenomenon, it interesting to note that there was attrition from these particular cities. Detroit and Cleveland are rust belt cities; this might be a common linking factor, but where does New Orleans come in?
 
 ### Question 2:  What is the American city with the greatest population jump over 10 years? 
