@@ -19,7 +19,7 @@ Data was reasonably well sorted out. I changed the format for the cell data to n
 
 **Sample nut graf:** New York, Los Angeles and Chicago have the largest populations in the United States, but they are nowhere near the fastest growing cities. In fact, they were not even part of the top 25 cities in 2010, according to US Census bureau data. Buckeye, Arizona, located 30 miles from downtown Phoenix, saw a 678 percent increase from 2000 to 2010. New York saw an increase of just 2.08 percent in the same 10-year span. Los Angeles saw an increase of 2.65 percent, while Chicago actually saw a decrease of about 7 percent in its population. 
 
-### Visualization: 
+### Possible visualizations: 
 Cities with greatest increase and decrease: 
 
 ![graph](https://agitated-bhabha-91348b.netlify.com/Graph.png)
