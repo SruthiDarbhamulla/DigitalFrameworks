@@ -3,11 +3,10 @@
 Link: https://www.census.gov/library/publications/2011/dec/c2010br-01.html
 
 ### Question 1: Where there any drastic reduction in population in major American cities from the year 2000 to 2010?
-**Answer:** Yes. Cities such as New Orleans, Louisiana (29 percent decrease); Detroit, Michigan (almost 25 percent decrease) and Cleveland, Ohio (17 percent decrease) saw significant drops in population from 2000 to 2010 () When urban migration is thought of as a common phenomenon, it interesting to note that there was attrition from these particular cities. Detroit and Cleveland are rust belt cities; this might be a common linking factor, but where does New Orleans come in?
+Answer: Yes. Cities such as New Orleans, Louisiana (29 percent decrease); Detroit, Michigan (almost 25 percent decrease) and Cleveland, Ohio (17 percent decrease) saw significant drops in population from 2000 to 2010. When urban migration is thought of as a common phenomenon, it interesting to note that there was attrition from these particular cities. Detroit and Cleveland are rust belt cities; this might be a common linking factor, but where does New Orleans come in?
 
 ### Question 2:  What is the American city with the greatest population jump over 10 years? 
-**Answer:** Buckeye in Arizona saw an increase of 678 percent from 6,537 to 50,876 in this span of 10 years. As of 2017, it was still the fastest growing city in the United States. https://www.nbcdfw.com/news/local/DFW-Fastest-Growing-Metro-in-US-Fort-Worth-Moves-Up-13th-Largest-City-510330671.html
-This is definitely something that should be investigated. 
+**Answer:** Buckeye in Arizona saw an increase of 678 percent from 6,537 to 50,876 in this span of 10 years. As of 2017, it was [still](https://www.nbcdfw.com/news/local/DFW-Fastest-Growing-Metro-in-US-Fort-Worth-Moves-Up-13th-Largest-City-510330671.html) the fastest growing city in the United States. This is definitely something that should be investigated. 
 
 ### Question 3: Are there any cities where the population has stayed almost the same over 10 years? 
 
@@ -23,13 +22,14 @@ Data was reasonably well sorted out. I changed the format for the cell data to n
 ### Visualization: 
 Cities with greatest increase and decrease: 
 
+![graph](https://agitated-bhabha-91348b.netlify.com/Graph.png)
 
- 
+
 
 
 Map of places with greatest growth (mock-up):
 
-
+![map](https://agitated-bhabha-91348b.netlify.com/Map.png)
 
 
 
