@@ -14,7 +14,9 @@ This means that they present a unique long-term policy challenge as far as admis
 As the debate intensifies with the latest proposal from the administration, here are some key takeaways about refugee admission to the United States, culled from the Department of Homeland Security's [Yearbook of Immigration Statistics 2017](https://www.dhs.gov/immigration-statistics/yearbook/2017). 
 
 
-### 1. The greatest number of refugees admitted to the United States was in 1980, the year Congress passed the Refugee Act which created the Federal Refugee Resettlement Program. 207,116 refugees were admitted in 1980 alone, compared to 53,691 in 2017. 
+### 1. The greatest number of refugees admitted to the United States was in 1980
+
+This was the year Congress passed the Refugee Act- which created the Federal Refugee Resettlement Program. 207,116 refugees were admitted in 1980 alone, compared to 53,691 in 2017. 
 
 ![Viz 1](https://quizzical-neumann-30c700.netlify.com/Viz%201.png)
 
